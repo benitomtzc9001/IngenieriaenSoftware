@@ -46,3 +46,4 @@ namespace Ejercicio_Clave_RFC_Primer_Parcial
         }
     }
 }
+Nombre:Jose Benito Martinez Contreras,Matricula:18101,Carrera:Ingenieria en Sistemas Computacionales "ISC 6"
